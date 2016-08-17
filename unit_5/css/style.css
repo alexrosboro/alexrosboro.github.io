@@ -5,6 +5,7 @@ body {
     background-size: cover;
     color: white;
     font-family: 'Lato',sans-serif;
+    text-align: center;
 }
 
 
@@ -12,12 +13,10 @@ header {
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
-	text-align: center;
 
 h1 {
     font-style: italic;
     font-size: 26px;
-    text-align: center;
 }
 
 article {
@@ -54,7 +53,6 @@ hr {
 
 footer {
 	background-color: #FF957E;
-	text-align: center;
 	text-decoration: underline;
 	padding: 1em 0;
 }
