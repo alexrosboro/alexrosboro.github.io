@@ -1,25 +1,25 @@
-@import https://fonts.googleapis.com/css?family=Lato;
+@import  https://fonts.googleapis.com/css?family=Lato;
 
 body {
-text-align:center;
-background:url(http://igniteafricalibrary.org/assets/img/preview/slider/library.jpg);
-background-size:cover;
-color:#000;
-font-family:Lato, sans-serif;
-text-shadow:3px 3px 4px #000;
+    text-align: center;
+    background: url(http://igniteafricalibrary.org/assets/img/preview/slider/library.jpg);
+    background-size: cover;
+    color: #000;
+    font-family: 'Lato',sans-serif;
+    text-shadow: 3px 3px 4px #000;
 }
 
 h1 {
-font-style:italic;
-font-size:24px;
+    font-style: italic;
+    font-size: 24px;
 }
 
 h2 {
-font-size:16px;
-line-height:1.5em;
-margin:2em;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 2em;
 }
 
 hr {
-width:300px;
+    width: 300px;
 }
