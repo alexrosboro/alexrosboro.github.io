@@ -3,7 +3,7 @@
 body {
 	text-align: center;
 	background: url("http://igniteafricalibrary.org/assets/img/preview/slider/library.jpg");
-	background size: cover;
+	background-size: cover;
 	color: #fff;
 	font-family: 'Lato', sans-serif;
 }
