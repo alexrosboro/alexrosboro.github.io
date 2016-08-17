@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	background: url("file:///C:/Users/ALRosboro/Documents/GitHub/alexrosboro.github.io/unit_3/images/book%20store.PNG");
+	background size: cover;
+	color: #fff;
+	font-family: Times New Roman;
+}
+
+h1 {
+	font-style:italic;
+	font-size: 24;
+
+}
+h2 {
+	font-size: 16;
+}
+hr {
+	width: 200px;
+}
