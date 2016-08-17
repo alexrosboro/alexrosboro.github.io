@@ -1,0 +1,32 @@
+@import  https://fonts.googleapis.com/css?family=Lato;
+
+body {
+    text-align: center;
+    background: url(http://igniteafricalibrary.org/assets/img/preview/slider/library.jpg);
+    background-size: cover;
+    color: white;
+    font-family: 'Lato',sans-serif;
+    text-shadow: 1px 1px 1px #ffffff
+}
+
+h1 {
+    font-style: italic;
+    font-size: 26px;
+}
+
+}
+p {
+	font-size:20;
+    line-height: 1.5em;
+    margin: 2em;
+}
+
+h2 {
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 2em;
+}
+
+hr {
+    width: 300px;
+}
