@@ -1,11 +1,13 @@
-@import 'https://fonts.googleapis.com/css?family=Lato';
+@import 'https://fonts.googleapis.com/css?family=Lato|Open+Sans|Roboto+Slab';
 
 body {
 	text-align: center;
 	background: url("http://igniteafricalibrary.org/assets/img/preview/slider/library.jpg");
-	background-size: cover;
+	background size: cover;
 	color: #000;
 	font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
 }
 
 h1 {
