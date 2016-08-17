@@ -1,56 +1,39 @@
 @import  https://fonts.googleapis.com/css?family=Lato;
 
 body {
-    text-align: center;
     background: url(http://igniteafricalibrary.org/assets/img/preview/slider/library.jpg);
     background-size: cover;
     color: white;
     font-family: 'Lato',sans-serif;
-    text-shadow: 1px 1px 1px #ffffff
 }
 
-h1 {
-    font-style: italic;
-    font-size: 26px;
-}
+
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
+	text-align: center;
 
-}
-nav {
-	background-color: #E8C66A
-}
-
-aside {
-	background-color:#FFC675;
+h1 {
+    font-style: italic;
+    font-size: 26px;
+    text-align: center;
 }
 
-footer {
-	background-color: #FF957E;
-}
+article {
+	background-color: #E89C6C;
+	font size: 20
+	line-height: 1.5em
+	margin 3em;
 
+}
 div {
 	background-color: #FFE2B8
-}
-ul {
-
-}
-
-li {
-
+	text-align left ;
+	font-size:18;
+	font-weight: bold
 }
 
-li
-
-}
-
-p {
-	font-size:20;
-    line-height: 1.5em;
-    margin: 2em;
-}
 
 h2 {
     font-size: 16px;
@@ -60,4 +43,9 @@ h2 {
 
 hr {
     width: 300px;
+}
+
+footer {
+	background-color: #FF957E;
+	text-align: center;
 }
