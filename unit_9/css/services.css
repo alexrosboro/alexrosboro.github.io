@@ -8,7 +8,7 @@ body {
     text-align: center;
 }
  section {
- 
+
 border: 1.5px black solid;
 	opacity: 0.6;
 	margin: 30%;
@@ -17,3 +17,13 @@ border: 1.5px black solid;
 	color: black;
 
  }
+
+ @media screen only (max-height: 640px) and (max-width: 320px)
+{
+	body{
+		font-size: 1em;
+	}
+	img{
+		margin: 0 1.6em .75em 0;
+	}
+}
