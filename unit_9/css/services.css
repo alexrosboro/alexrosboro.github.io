@@ -11,12 +11,29 @@ body {
 
 border: 1.5px black solid;
 	opacity: 0.6;
-	margin: 30%;
+	margin: 10%;
 	padding:20px;
 	background-color: #ffffff;
 	color: black;
+	list-style: none;
 
  }
+
+ footer {
+	background-color: #fffebb;
+	text-decoration: underline;
+	clear: both;
+	color: black;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height:0;
+}
 
  @media screen only (max-height: 640px) and (max-width: 320px)
 {
