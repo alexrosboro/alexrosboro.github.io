@@ -1,0 +1,89 @@
+@import  https://fonts.googleapis.com/css?family=Lato;
+
+body {
+    background: url(http://igniteafricalibrary.org/assets/img/preview/slider/library.jpg);
+    background-size: cover;
+    color: white;
+    font-family: 'Lato',sans-serif;
+    text-align: center;
+}
+
+
+header {
+	border: 2px black solid;
+	padding: 20px;
+	font-style: italic;
+	font-size: 26
+}
+
+#two_column {
+	border: 1.5px black solid;
+	padding:20px;
+}
+
+#aboutus {
+	font size: 20;
+	line-height: 1.5em
+	border: 1.5px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#whatwedo {
+	font size: 20
+	line-height: 1.5em
+	border: 1.5px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+
+}
+div {
+	font-size: 18;
+	font-weight: 100px
+}
+
+
+h4 {
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 2em;
+    text-align: left;
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+hr {
+    width: 300px;
+}
+
+footer {
+	background-color: #fffebb;
+	text-decoration: underline;
+	clear: both;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height:0;
+}
+
+@media screen only (max-height: 640px) and (max-width: 320px)
+{
+	body{
+		font-size: 1em;
+	}
+	img{
+		margin: 0 1.6em .75em 0;
+	}
+}
