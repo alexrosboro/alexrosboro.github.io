@@ -10,7 +10,7 @@ body {
 
 
 header {
-	border: 2px black solid;
+	border: 1.5px black solid;
 	padding: 20px;
 	font-style: italic;
 	font-size: 26
@@ -37,7 +37,7 @@ header {
 	border: 1.5px black solid;
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 30%;
 
 }
 div {
@@ -68,7 +68,7 @@ footer {
 	background-color: #fffebb;
 	text-decoration: underline;
 	clear: both;
-	text-decoration-color: black
+	color: white;
 }
 
 .clearfix:after {
