@@ -7,9 +7,13 @@ body {
     font-family: 'Lato',sans-serif;
     text-align: center;
 }
- section {
 
-border: 1.5px black solid;
+header {
+	font-style: italic;
+}
+
+ section {
+	border: 1.5px black solid;
 	opacity: 0.6;
 	margin: 5%;
 	padding:20px
