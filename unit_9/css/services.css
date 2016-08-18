@@ -12,10 +12,11 @@ body {
 border: 1.5px black solid;
 	opacity: 0.6;
 	margin: 10%;
-	padding:20px;
+	padding:10px
 	background-color: #ffffff;
 	color: black;
 	list-style: none;
+	align-items: left
 
  }
 
