@@ -15,10 +15,6 @@ header {
 	font-style: italic;
 	font-size: 26
 }
-nav {
-	font-size: 20;
-	font-style: normal;
-}
 
 #two_column {
 	border: 1.5px black solid;
@@ -52,17 +48,10 @@ div {
 	font-weight: 100px
 }
 
-
-h4 {
-    font-size: 16px;
-    line-height: 1.5em;
-    margin: 2em;
-    text-align: left;
-}
-
-ul{
-	margin: 0;
-	padding: 0;
+nav {
+	font-size: 16;
+	font-style: normal;
+	margin: 2em;
 	text-align: left;
 }
 
