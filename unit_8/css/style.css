@@ -17,9 +17,12 @@ header {
 }
 
 #two_column {
-	text-decoration-color: black
 	border: 1.5px black solid;
+	opacity: 0.6;
+	margin: 5%;
 	padding:20px;
+	background-color: #ffffff;
+
 }
 
 #aboutus {
@@ -68,7 +71,7 @@ footer {
 	background-color: #fffebb;
 	text-decoration: underline;
 	clear: both;
-	color: white;
+	color: black;
 }
 
 .clearfix:after {
